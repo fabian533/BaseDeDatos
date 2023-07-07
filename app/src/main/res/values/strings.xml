@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Base de Datos</string>
+    <string name="btnCrear">Crear BD</string>
+    <string name="btnAgregar">Agregar BD</string>
+</resources>
